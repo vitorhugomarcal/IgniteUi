@@ -30,10 +30,10 @@
     "vite": "^3.1.8"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@vhmarcal-ui/eslint-config": "*",
+    "@vhmarcal-ui/react": "*",
+    "@vhmarcal-ui/tokens": "*",
+    "@vhmarcal-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
