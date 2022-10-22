@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@vhamrcal-ui/tokens'
+} from '@vhmarcal-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
