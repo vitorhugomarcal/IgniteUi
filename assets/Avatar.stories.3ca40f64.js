@@ -1,0 +1,2 @@
+import{A as t}from"./index.2225bdbe.js";import"./index.ab783448.js";import"./iframe.117d658b.js";import"./index.9119f5af.js";import"./jsx-runtime.07879305.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/vitorhugomarcal.png",alt:"Vitor Hugo Mar\xE7al"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,m as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.3ca40f64.js.map
